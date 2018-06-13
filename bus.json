@@ -1,0 +1,16 @@
+[
+{"type":"header","version":"4.8.0.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"tour_company"},
+{"type":"table","name":"bus","database":"tour_company","data":
+[
+{"Driver":"Omar Yackoub","Destination":"STephanplatz","fk_Code":"1010"},
+{"Driver":"Heinz Strache","Destination":"Prater Stern","fk_Code":"1100"},
+{"Driver":"Norbert Hofer","Destination":"Heilihenstadt","fk_Code":"1190"},
+{"Driver":"Norbert Hofer","Destination":"Heilihenstadt","fk_Code":"1190"},
+{"Driver":"Ahmad MArdene ","Destination":"Heilihenstadt","fk_Code":"1190"},
+{"Driver":"Ahmad MArdene ","Destination":"Heilihenstadt","fk_Code":"1190"},
+{"Driver":"Hassan Moumen","Destination":"CityCenter","fk_Code":"2425"},
+{"Driver":"Maryam","Destination":"Styermarkerhof","fk_Code":"3551"}
+]
+}
+]

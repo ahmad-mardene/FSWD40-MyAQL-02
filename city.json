@@ -1,0 +1,13 @@
+[
+{"type":"header","version":"4.8.0.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"tour_company"},
+{"type":"table","name":"city","database":"tour_company","data":
+[
+{"Name":"Graz","Code":"3551"},
+{"Name":"Salzburg","Code":"2425"},
+{"Name":"Vienna","Code":"1010"},
+{"Name":"Vienna","Code":"1100"},
+{"Name":"Vienna","Code":"1190"}
+]
+}
+]
